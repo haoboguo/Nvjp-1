@@ -2,4 +2,4 @@
 This repository contains 1000 AF2 models of both Nvjp-1 (an intrinsically disordered protein) and T7RdhA (a globular protein).
 
 The pLDDT profiles:
-!pLDDT of T7RdhA vs Nvjp-1](t7rdha-nvjp1.plddt.all.png)
+(t7rdha-nvjp1.plddt.all.png)
