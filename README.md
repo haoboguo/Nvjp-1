@@ -9,3 +9,5 @@ However, the pLDDT scores of both proteins are highly consistent for all Nvjp-1 
 The residue-residue interaction networks (RINs) of Nvjp-1 (top) and T7RdhA (bottom) show distinct patterns, in which the residue-residue interactions of the IDP (Nvjp-1) are mostly transient, but those of the well-folded protein (T7RdhA) are persistent. In the RINs, each vertex represents one amino acid residue and each edge is an interaction. The red edges are persistent interactions that can be observed in more than 75% of all models, whereas the blue edges are transient interactions that can be observed in less than 25% of all models. Histograms (C and F) indicate interactions in the IDP's are mostly transient.
 
 ![Residue-residue interaction networks](https://github.com/haoboguo/Nvjp-1/blob/main/RIN.png)
+
+Note: the RINs have been constructed based on the contact maps; the red bar in Fig C (persistent interactions in Nvjp-1) comes from the consecutive residues.
