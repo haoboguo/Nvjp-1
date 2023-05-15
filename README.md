@@ -11,3 +11,4 @@ The residue-residue interaction networks (RINs) of Nvjp-1 (top) and T7RdhA (bott
 ![Residue-residue interaction networks](https://github.com/haoboguo/Nvjp-1/blob/main/RIN.png)
 
 Note: the RINs have been constructed based on the contact maps; the red bar in Fig C (persistent interactions in Nvjp-1) comes from the consecutive residues.
+
