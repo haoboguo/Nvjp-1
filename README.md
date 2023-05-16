@@ -11,3 +11,7 @@ The residue-residue interaction networks (RINs) of Nvjp-1 (top) and T7RdhA (bott
 ![Residue-residue interaction networks](https://github.com/haoboguo/Nvjp-1/blob/main/RIN.png)
 
 Note: the RINs have been constructed based on the contact maps (physical adjacencies); the red bar in Fig C (persistent interactions in Nvjp-1) comes from the consecutive residues that are connected by the peptide bonds.
+
+The secondary structure element (SSE) analysis shows that the Nvjp-1 models possess little or no secondary structures; whereas T7RdhA models have considerable alpha-helices and beta-strands.
+
+![Secondary Structure Elements](https:giithub.com/haoboguo/Nvjp-1/blob/main/SSE.png)
