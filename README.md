@@ -6,6 +6,8 @@ However, the pLDDT scores of both proteins are highly consistent for all Nvjp-1 
 
 ![The pLDDT Profiles of T7RdhA (red) and Nvjp-1 (blue)](https://github.com/haoboguo/Nvjp-1/blob/main/t7rdha-nvjp1.plddt.all.png)
 
+More info of T7RdhA could be found here: https://www.nature.com/articles/s41598-023-30310-x 
+
 The residue-residue interaction networks (RINs) of Nvjp-1 (top) and T7RdhA (bottom) show distinct patterns, in which the residue-residue interactions of the IDP (Nvjp-1) are mostly transient, but those of the well-folded protein (T7RdhA) are persistent. In the RINs, each vertex represents one amino acid residue and each edge is an interaction. The red edges are persistent interactions that can be observed in more than 75% of all models, whereas the blue edges are transient interactions that can be observed in less than 25% of all models. Histograms (C and F) indicate interactions in the IDP's are mostly transient.
 
 ![Residue-residue interaction networks](https://github.com/haoboguo/Nvjp-1/blob/main/RIN.png)
@@ -16,3 +18,6 @@ The secondary structure element (SSE) analysis shows that the Nvjp-1 models poss
 
 ![Secondary Structure Elements](https://github.com/haoboguo/Nvjp-1/blob/main/SSE.png)
 
+Molecular dynamics simulations were performed to Nvjp-1 monomer and a hypothetical dimer. The RINs were constructed using configurations taken from 500-ns MD trajectories, which also shows considerably more transient interactions than the persistent interactions. The hypothetical dimer has a doughnut shape with two monomeric chains interwined, forming more persistent interactions.
+
+![MD RINs](https://github.com/haoboguo/Nvjp-1/blob/main/RIN-MD.png)
