@@ -15,3 +15,4 @@ Note: the RINs have been constructed based on the contact maps (physical adjacen
 The secondary structure element (SSE) analysis shows that the Nvjp-1 models possess little or no secondary structures; whereas T7RdhA models have considerable alpha-helices and beta-strands.
 
 ![Secondary Structure Elements](https://giithub.com/haoboguo/Nvjp-1/blob/main/SSE.png)
+
