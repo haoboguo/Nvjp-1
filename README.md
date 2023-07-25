@@ -1,4 +1,4 @@
-# Nvjp-1
+# Nvjp-1 
 This repository contains 1000 AF2 models of both Nvjp-1 (an intrinsically disordered protein) and T7RdhA (a globular protein).
 
 Our models indicate that the Nvjp-1 models derivate from each other (mean RMSD ~6.5 Angs.) and all T7RdhA models show consistent structures (mean RMSD ~0.5 Angs).
